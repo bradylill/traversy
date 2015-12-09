@@ -35,6 +35,9 @@ The same lens can also be used for viewing the foci:
 (-> {:x 2 :y 4} (view all-values))
 => (2 4)
 ```
+TEST
+
+
 
 Lenses can be easily composed, so it's easy to build one that suits your particular data structure:
 
